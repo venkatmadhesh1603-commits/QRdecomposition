@@ -54,7 +54,8 @@ print("The Q Matrix is\n",Q)
 print("The R Matrix is\n",R)
 
 ```
-<img width="1233" height="870" alt="image" src="https://github.com/user-attachments/assets/155aaef8-abe6-4a5c-8cda-5a63c997df0f" />
+![WhatsApp Image 2026-03-28 at 9 40 55 AM](https://github.com/user-attachments/assets/a204e4f2-b05f-44d2-82c0-fc38840c9e98)
+
 
 
 ## Output
